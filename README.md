@@ -28,9 +28,7 @@ The **SJM Polytechnic** website presents a polished look at what the institution
 ## 🛠️ Technologies Used
 
 - **HTML** – Structural markup and page layout  
-- **CSS** – Styling and responsive design  
-- **JavaScript** – For interactive elements (navigation toggle, animations, etc.)  
-*(Update if you used Bootstrap or other frameworks)*  
+- **CSS** – Styling and responsive design   
 
 ---
 
